@@ -1,0 +1,7 @@
+Questo è l'ambiente di sviluppo vuoto di python creato con Visual Studio Code.
+
+Si ottiene la stessa cosa aprendo la tavola dei comandi (Ctrl + Maiusc + P) e digitando venv.
+
+Se si utilizza l'archivio provveduto da Infodit, bisogna inserire la cartella .venv 
+all'interno
+della cartella principale del progetto.
